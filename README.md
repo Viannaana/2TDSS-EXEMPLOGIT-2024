@@ -1,2 +1,2 @@
 # 2TDSS-EXEMPLOGIT-2024
-# exemplo gitflw
+# exemplo gitflw com bash
